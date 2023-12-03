@@ -1,6 +1,5 @@
 import to from "await-to-js"
 import { useMemo } from "react"
-import { FaVolumeUp } from "react-icons/fa"
 import { useAsync } from "react-use"
 import { Icon } from "./components/Icon"
 import { Periods } from "./components/Periods"
